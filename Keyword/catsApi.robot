@@ -61,7 +61,7 @@ Verify the Values With Content
     END
 
 
-Verify the Values With Content Detail
+Verify the Values With Content Details
     [Arguments]     @{idList}
     FOR             ${id}                                     IN                                        @{idList}
                     ${content}=                               GET Fact Details About the Cats           ${id}

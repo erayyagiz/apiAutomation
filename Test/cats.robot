@@ -21,5 +21,5 @@ Should Be Verify the Values With Content
     Verify the Values With Content              ${CONTENT}                             @{idList}
 
 
-Should Be Verify the Values With Content Detail
-    Verify the Values With Content Detail       @{ID_LIST}
+Should Be Verify the Values With Content Details
+    Verify the Values With Content Details       @{ID_LIST}
