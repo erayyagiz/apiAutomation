@@ -27,6 +27,6 @@ To read the test results on the Report --> Open ./Results/report.html (on any br
 You can execute the test cases with a Python VM on Pycharm
 ![Test Image_1](venvconfig.PNG)
 
-![Test Image_2](runconfig.PNG)
+![Test Image_2](runnconfig.PNG)
 
 
