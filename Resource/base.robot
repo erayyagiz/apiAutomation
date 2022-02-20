@@ -3,9 +3,6 @@ Library    RequestsLibrary
 Library    JSONLibrary
 Library    Collections
 Library    String
-Library    Process
-Library    SeleniumLibrary
-Library    DateTime
 Library    OperatingSystem
 
 *** Variables ***
