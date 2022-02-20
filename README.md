@@ -19,7 +19,7 @@ pip install -r requirements.txt
 To execute Test Suite (You can create a Python VM option)
 
 ```python
-robot -d ./Results .
+robot -d ./Results ./Test/cats.robot
 ```
 ![Test Image](runconfig.PNG)
 
