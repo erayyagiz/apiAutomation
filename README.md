@@ -21,6 +21,7 @@ To execute Test Suite (You can create a Python VM option)
 ```python
 robot -d ./Results .
 ```
+![Test Image 1](runconfig.PNG)
 
 ## Report
 To read the test results on the Report --> Open ./Results/report.html (on any browser)
