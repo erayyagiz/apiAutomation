@@ -5,7 +5,6 @@ Robotframework is a Python library for robotic-process automation.
 You should install Python-3.x --> https://www.python.org/downloads/
 
 Clone the project
-
 ```bash
 https://github.com/yaqiz16/apiAutomation.git
 ```
